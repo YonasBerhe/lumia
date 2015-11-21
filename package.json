@@ -1,0 +1,13 @@
+{
+  "name": "Lumia",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "invariant": "^2.2.0",
+    "react-native": "^0.14.2",
+    "react-native-speech": "^0.1.1"
+  }
+}
